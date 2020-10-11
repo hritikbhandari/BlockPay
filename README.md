@@ -1,19 +1,16 @@
 
-# BlockPay 
-
 
 <p align="center">
-<a href="https://dscommunity.in">
-	<img src="https://github.com/oojas/BlockPay/blob/master/images/logo.png" width=20%/>
+<a href="">
+	<img src="https://github.com/hritikbhandari/BlockPay/blob/main/BlockPay%20Flutter%20App/images/logo.png?raw=true" width=20%/>
 </a>
-	<h2 align="center">Decentralised AI powered Money Lending Application</h2>
+	<h2 align="center">A Decentralised AI powered Money Lending Application</h2>
 	
 	
 <br>
 
 <p align="center">
 	 
-[Checkout the Project Demonstration and Explanation Video Here!]()
 
 
 	 
